@@ -7,29 +7,36 @@ export type Job = {
 
 export const jobs: Job[] = [
   {
-    title: "Data Analyst",
-    company: "Tech Solutions Inc.",
-    dates: "01/2019 - 12/2022",
+    title: "STEM Teacher",
+    company: "Fusion Academy",
+    dates: "10/2023 - Present",
     description: [
-      "Developed interactive Power BI dashboards to analyze business performance and customer trends.",
-      "Automated ETL processes using Python and SQL to improve data processing efficiency by 40%.",
-      "Collaborated with stakeholders to identify key performance metrics and optimize reporting strategies.",
-      "Designed predictive models to forecast revenue and customer churn, providing actionable insights.",
-      "Managed data extraction from multiple sources, including APIs, databases, and cloud storage.",
-      "Presented analytical findings to executive teams, leading to data-driven decision-making."
+      "Led the technology and computer science department as the sole instructor.",
+      "Developed and taught a diverse range of courses, including Web Development, Game Design, 3D Modeling, Coding, and Artificial Intelligence.",
+      "Mentored students in mathematics, enhancing their analytical and problem-solving skills.",
+      "Facilitated extracurricular clubs, including Chess Club and Video Game Club, fostering student engagement and teamwork."
     ]
   },
   {
-    title: "Software Engineer",
-    company: "Innovatech Solutions",
-    dates: "03/2023 - Present",
+    title: "Mathnasium Instructor",
+    company: "Mathnasium",
+    dates: "03/2023 - 10/2023",
     description: [
-      "Developed full-stack web applications using React, Node.js, and MongoDB.",
-      "Implemented RESTful APIs and integrated third-party services for enhanced application functionality.",
-      "Optimized SQL queries and database schemas to improve system performance.",
-      "Led a team of junior developers, mentoring them on best practices in software engineering.",
-      "Designed and implemented CI/CD pipelines, reducing deployment time by 50%.",
-      "Collaborated with UX/UI designers to enhance the user experience of web applications."
+      "Provided personalized math tutoring to students aged 6 to 18, adapting teaching methods to meet individual learning needs.",
+      "Assisted prospective families by answering phone inquiries, effectively communicating program details and enrollment processes.",
+      "Fostered a supportive and engaging learning environment to help students build confidence and improve their math skills."
     ]
   }
+  ,
+  {
+    title: "Engineering Aide",
+    company: "USDA-ARS ",
+    dates: "01/2018 - 04/2020",
+    description: [
+      "Developed software primarily in Java and XML for a graphical user interface (GUI) application, contributing to enhanced user interaction.",
+      "Planned and designed various program aspects, creating weekly progress outlines to ensure project milestones were met.",
+      "Prepared and delivered monthly walkthrough demonstrations to superiors, showcasing code progress and functionality of the GUI application through presentations."
+    ]
+  }
+
 ];
