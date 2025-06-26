@@ -15,7 +15,7 @@ export const heroData = {
   ],
   contact: {
     github: 'https://github.com/kzryan',
-    linkedin: 'www.linkedin.com/in/kzryan98',
+    linkedin: 'https://www.linkedin.com/in/kzryan98',
     email: 'kate.ryan20@alumni.colostate.edu'
   }
 };
