@@ -18,5 +18,5 @@ export const footerData = {
     }
   ],
   quote: '"Teaching programming: where Ctrl+Z is both a tool and a life philosophy."',
-  githubCodeLink: 'https://github.com/kzryan/astro-portfolio2'
+  githubCodeLink: 'https://github.com/kzryan/Astro-Portfolio2'
 };
