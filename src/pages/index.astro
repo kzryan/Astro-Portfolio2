@@ -6,6 +6,7 @@ import { MoonIcon, SunIcon } from "lucide-react"
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Experience from '@/components/Experience';
+import Interests from '@/components/Interests';
 import Portfolio from '@/components/Portfolio';
 import PortfolioFeed from '@/components/PortfolioFeed';
 import Testimonials from '@/components/Testimonials';
@@ -39,6 +40,7 @@ import { config } from '../data/config';
       </Button>
     </div>
     <Hero client:load />
+    <Interests client:visible />
     <Experience client:visible />
     <!-- Write your comments here 
     <PortfolioFeed client:visible /> -->
